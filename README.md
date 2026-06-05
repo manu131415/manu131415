@@ -16,9 +16,9 @@ These experiences helped me strengthen my problem-solving abilities, teamwork, a
 
 🌱 Currently, I am focusing on:
 - Python programming
-- Artificial Intelligence
+- Artificial Intelligence and Generative AI
 - Data Structures & Algorithms
-- Open Source Contribution
+- AI-powered Applications and Systems
 
 ## Skills
 - Python
@@ -29,4 +29,4 @@ These experiences helped me strengthen my problem-solving abilities, teamwork, a
 - AI Fundamentals
 
 ## Goals
-I am currently looking to grow through open source, AI projects, and collaborative development opportunities where I can apply my skills and learn from real-world projects.
+I am seeking opportunities to contribute to AI-driven products and deep-tech applications, where I can apply my software engineering and problem-solving skills while gaining hands-on experience in building scalable AI systems and infrastructure.
