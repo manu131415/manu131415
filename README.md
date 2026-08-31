@@ -22,17 +22,17 @@
 
 ## 🚀 About Me
 
-I am a B.Tech Computer Science and Engineering student at SVNIT Surat (CGPA 8.82)[cite: 1]. My focus is on building reliable, scalable systems, with growing interests spanning distributed architecture, AI applications, and secure software engineering[cite: 1].
+I am a B.Tech Computer Science and Engineering student at SVNIT Surat (CGPA 8.82). My focus is on building reliable, scalable systems, with growing interests spanning distributed architecture, AI applications, and secure software engineering.
 
-* 🎓 Secured admission via JEE Main AIR 3807 (99.9 percentile in Mathematics)[cite: 1].
-* 🧩 Solved 300+ problems across LeetCode, CodeChef, and Codeforces[cite: 1].
-* 🔒 Hold a Developing Secure Software (LFD121) certification from the Linux Foundation[cite: 1].
+* 🎓 Secured admission via JEE Main AIR 3807 (99.9 percentile in Mathematics).
+* 🧩 Solved 300+ problems across LeetCode, CodeChef, and Codeforces.
+* 🔒 Hold a Developing Secure Software (LFD121) certification from the Linux Foundation.
 
 ---
 
 ## 💻 Featured Projects
 
-* **CaseCraft AI (Next.js, FastAPI, PostgreSQL, Google Gemini, RAG):** Built an AI-assisted investigation platform for law enforcement[cite: 2]. Features automated evidence extraction, Retrieval-Augmented Generation (RAG) for legal section recommendations, case timeline management, and automated legal document generation[cite: 2].
+* **CaseCraft AI (Next.js, FastAPI, PostgreSQL, Google Gemini, RAG):** Built an AI-assisted investigation platform for law enforcement. Features automated evidence extraction, Retrieval-Augmented Generation (RAG) for legal section recommendations, case timeline management, and automated legal document generation.
 * **JEE College Predictor (React, Node.js, PostgreSQL, Python ML):** Built a full-stack machine learning system predicting counseling outcomes using ~500K records from 6 years of JoSAA/CSAB data. Engineered a multi-factor ranking algorithm incorporating NIRF rankings, median placement packages, and fee structures.
 * **Smart-Sight Assistive Navigation (C/C++, Arduino):** Designed a two-module embedded safety device for the visually impaired. Integrated ultrasonic sensors, NEO-6M GPS, and SIM800L GSM via AT commands to trigger audio alerts and send automated SMS coordinates to caretakers.
 
